@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurt-chan&label=Profile%20views&color=0e75b6&style=flat" alt="kurt-chan" /> </p>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NextJS**, **React**, and **Automation/Scripting**
 
 - 👨‍💻 All of my projects are available at [https://kurtchan.com](https://kurtchan.com)
 
