@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kurtchan.com](https://kurtchan.com)
 
-- 📝 I regularly write articles on [https://dev.to/kurtchan](https://dev.to/kurtchan)
+- 📝 I regularly write articles on [https://dev.to/kurtchan](https://dev.to/kurtchan) and on my personal blog [https://www.coffee-driven.dev](https://www.coffee-driven.dev)
 
 - 📫 How to reach me **hello@kurtchan.com**
 
