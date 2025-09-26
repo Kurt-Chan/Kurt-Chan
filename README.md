@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kurt!</h1>
-<h3 align="center">A dynamic full-stack web developer and systems engineer</h3>
+<h3 align="center">A dynamic web developer and systems engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurt-chan&label=Profile%20views&color=0e75b6&style=flat" alt="kurt-chan" /> </p>
 
