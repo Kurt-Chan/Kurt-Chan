@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kurt!</h1>
-<h3 align="center">A dynamic web developer and systems engineer</h3>
+<h3 align="center">Full Stack AI engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurt-chan&label=Profile%20views&color=0e75b6&style=flat" alt="kurt-chan" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kurtchan.com](https://kurtchan.com)
 
-- 📝 I regularly write articles on [https://dev.to/kurtchan](https://dev.to/kurtchan) and on my personal blog [https://www.coffee-driven.dev](https://www.coffee-driven.dev)
+- 📝 I regularly write articles on on my personal blog [https://www.coffee-driven.dev](https://www.coffee-driven.dev)
 
 - 📫 How to reach me **hello@kurtchan.com**
 
